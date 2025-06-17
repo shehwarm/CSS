@@ -1,5 +1,8 @@
 h2{
-    color:white;
+    color:orangered;
+    text-align: centre;
+    text-decoration:line-through;
+    line-height: 2.5;
 }
 
 p{
