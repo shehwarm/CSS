@@ -5,3 +5,21 @@
 h1{
     color: maroon;
 }
+
+#login{
+    background-color: white;
+}
+
+#signup{
+    background-color: rgb(165, 18, 18);
+    color: white;
+}
+
+.follow{
+    background-color: rgb(155, 20, 20);
+    color: white;
+}
+.upvote{
+    background-color: rgb(19, 126, 54);
+    color: white;
+}
