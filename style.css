@@ -1,16 +1,7 @@
-h2{
-    color:orangered;
-    text-align: centre;
-    text-decoration:line-through;
-    line-height: 2.5;
+*{
+    font-family:"courier new";
 }
 
-p{
-    color: white;
-    background-color: blue;
-}
-
-button{
-    color: #ffffff;
-    background-color: black;
+h1{
+    color: maroon;
 }
