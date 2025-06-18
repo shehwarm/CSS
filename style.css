@@ -42,3 +42,11 @@ div > input{
     background-color: rgb(218, 162, 204);
     color: white;
 }
+
+input[type="text"] {
+     color: red;
+}
+
+input[type="password"] {
+     color: yellow;
+}
