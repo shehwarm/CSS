@@ -37,3 +37,8 @@ p + h3 {
     background-color: rgb(231, 119, 216);
     color: white;
 }
+
+div > input{
+    background-color: rgb(218, 162, 204);
+    color: white;
+}
