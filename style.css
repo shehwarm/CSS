@@ -51,7 +51,7 @@ input[type="password"] {
      color: yellow;
 }
 
-h1::first-letter{
+h1::first-letter{  
     color:green;
 }
 
@@ -66,4 +66,16 @@ h1::selection{
 h1::selection{
     background-color: green;
     color:white;
+}
+
+h6{
+    color: red;
+}
+
+#greet{
+    color: blue;
+}
+
+.myClass{
+    color: green;
 }
