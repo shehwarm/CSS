@@ -50,3 +50,16 @@ input[type="text"] {
 input[type="password"] {
      color: yellow;
 }
+
+h1::first-letter{
+    color:green;
+}
+
+h1::first-line{
+    color: blue;
+}
+
+h1::selection{
+    background-color: yellow;
+    color:white;
+}
