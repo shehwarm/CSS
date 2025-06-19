@@ -63,3 +63,7 @@ h1::selection{
     background-color: yellow;
     color:white;
 }
+h1::selection{
+    background-color: green;
+    color:white;
+}
