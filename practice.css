@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+}
+
+#mainTopic{
+    color: blue;
+}
+.a{
+    font-family: Georgia;
+}
+
+.b{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+button{
+    background-color: purple;
+    color: azure;
+}
+
+button:hover{
+    background-color: yellow;
+    color: blue;
+}
+p:nth-of-type(2n+1){
+    color:yellow;
+}
+
+h1::first-letter{
+    color: red;
+}
+
+#yes:checked + label{
+    color: green;
+}

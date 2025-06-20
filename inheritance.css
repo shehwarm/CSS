@@ -5,3 +5,12 @@ div{
 h2{
     background-color: lightblue;
 }
+
+input{
+    background-color: inherit;;
+}
+
+button:hover{
+    background-color: lightgreen;
+    color: black;
+}
