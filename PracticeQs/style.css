@@ -11,12 +11,22 @@ div{
     padding-right: 20px;    
     padding-bottom: 20px;
     padding: 30px 30px 30px 30px;
+    margin:40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin: 100px 20px 20px 100px;
+    display: inline-block;
 }
+    
   
 h1{
     border-width: 5px;
     border-style: dashed;
     border-color: purple;
+    display:inline;
+    background-color: lightblue;
 }
 button{
     border: 2px solid black;
@@ -25,4 +35,10 @@ button{
     padding:5px 10px 5px 10px;
     
 
+}
+
+span{
+    background-color:blueviolet;
+    border:2px solid black;
+    padding: 10px;
 }
