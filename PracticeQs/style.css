@@ -1,0 +1,11 @@
+div{
+    height: 200px;
+    border: 5px solid black;
+    border-left-style: dotted;
+    border-top: 5px solid pink;
+  
+h1{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: purple;
+}
