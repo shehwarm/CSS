@@ -2,10 +2,27 @@ div{
     height: 200px;
     border: 5px solid black;
     border-left-style: dotted;
-    border-top: 5px solid pink;
+    border-top: 5px solid black;
+    border-radius: 15px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    padding-top:20px;
+    padding-left: 20px;
+    padding-right: 20px;    
+    padding-bottom: 20px;
+    padding: 30px 30px 30px 30px;
+}
   
 h1{
     border-width: 5px;
     border-style: dashed;
     border-color: purple;
+}
+button{
+    border: 2px solid black;
+    border-radius:10px;
+    padding:15px;
+    padding:5px 10px 5px 10px;
+    
+
 }
