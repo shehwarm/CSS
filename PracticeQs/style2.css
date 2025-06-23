@@ -36,3 +36,12 @@ transform: rotate(45deg);
     transform : translate(100px, 50px);
 }
 
+#four{
+    transform: skew(30deg);
+    transform: skewX(30deg);
+    transform: skewY(30deg);
+}
+
+#five{
+    transform: rotate(40deg) translate(350px);
+}
