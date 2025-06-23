@@ -45,3 +45,9 @@ transform: rotate(45deg);
 #five{
     transform: rotate(40deg) translate(350px);
 }
+
+#six{
+    border: none;
+    background-color: rgb(72, 160, 72);
+    box-shadow: 2px 2px 8px black;
+}
