@@ -21,3 +21,7 @@
 #yellow{
     background-color: yellow;
 }
+
+div:hover{
+    background-color: lightblue;
+}
