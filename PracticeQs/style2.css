@@ -1,28 +1,38 @@
-#outer{
-    width: 70px;
-    height: 200px;
+section{
+    margin-top:100px;
+}
+div{
+    height: 50px;
+    width:200px;
     border: 2px solid black;
-    transition: 1s;
-}
-
-.inner{
-    height:50px;
-    width: 50px;
-    border: 2px solid black;
-    margin: 10px;
-    border-radius:50%;
-}
-
-#red{
-    background-color: red;
-}
-#green{
-    background-color: green;
-}
-#yellow{
-    background-color: yellow;
-}
-
-div:hover{
+    text-align: center;
     background-color: lightblue;
+    margin: 10px auto;
+   
 }
+
+div:nth-of-type(2n){
+    background-color: lightgreen;
+}
+div:nth-of-type(3n){
+    background-color: lightcoral;
+}
+
+/*transform*/
+
+#one{
+transform: rotate(45deg);
+}
+
+#two{
+    transform: scale(o.5);
+    transform: scaleX(0.5);
+    transform: scaleY(0.5);
+}
+
+#three{
+    transform: translateY(100px);
+    transform: translateX(-100px);
+    transform : translate(100px, 50px);
+}
+
