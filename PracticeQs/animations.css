@@ -38,3 +38,29 @@
         background-color: rgb(190, 162, 216);
     }
 }
+h2{
+    background-color: rgb(190, 162, 216);
+    border: 2px solid black;
+}
+/*@media(min-width: 400px){
+ h2{
+    background-color: saddlebrown;
+    color: white;
+ }
+}*/
+
+@media(min-width: 200px) and (max-width: 400px){
+     h2{
+        width: 500px;
+        height: 200px;
+        background-color: rgb(77, 95, 194);
+        
+    }
+}
+
+@media(orientation: ){
+    h2{
+        background-color: rgb(77, 95, 194);
+        color: white;
+    }
+}
